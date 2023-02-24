@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Welcome, I’m mitchelldanielw.
 
-<!--
-**mitchelldanielw/mitchelldanielw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Interested in amazing opportunities in blockchain and web3 development.
 
-Here are some ideas to get you started:
+👯 Excited to work for an awesome organization to share and develop skillsets while contributing to the positive forward progress of the team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning blockchain technologies as well as web3 development.
+
+💞️ I’m looking to continue my life journey of helping to inspire others to chase their dreams and achieve thier goals successfully!
+
+📫 You can reach me at mitchell.daniel.w@gmail.com and via LinkedIn (https://www.linkedin.com/in/mitchell-daniel-w/).
+
+-✨ Fun fact: ... Ohio is the only state with a non-rectangular flag in the US. ✨-
